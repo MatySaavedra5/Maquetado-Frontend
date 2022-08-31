@@ -1,0 +1,16 @@
+.navbar.navbar-expanded-lg.bg-primary{
+background-image: url(../img/fondo\ ladrillos.jpeg);}
+
+i.fa-brands.fa-facebook.fa-2xl:hover{
+color: blue;
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: blue;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color: red;
+}
+.list-group-item{
+    background-color: transparent;
+    border: none;
+}
